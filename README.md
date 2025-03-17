@@ -15,4 +15,3 @@ The Password Strength Checker aims to advance the understanding of identifying w
 
 - Visual Studio Code for coding and debugging.
 - Python language for developing functionality.
-- String module used for handling punctuation characters in password evaluation.
